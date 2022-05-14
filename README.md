@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @WilliamXsamm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**hello my name is william**
+
+- `from` : Indonesian 
+- `lives in` : Pemalang
+- `Age` : 18
+- `gender` : male
+
 
 <!---
 WilliamXsamm/WilliamXsamm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
